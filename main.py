@@ -1,3 +1,5 @@
+print("Welcome to Random PW Generator")
+print("By NoobzSquad")
 import random
 import string
 ans = string.printable
